@@ -100,4 +100,6 @@ ORDER BY total_spent DESC;
 This project demonstrates how MySQL can transform transactional purchase data into actionable business insights to support sales optimization, learner engagement, and course strategy.
 
 ## Author
-Nitesh Raj R G
+**Nitesh Raj R G**  
+- Data Analyst
+- Skills: Excel, SQL, Python, Data Visualization
