@@ -207,7 +207,7 @@ E-Learning-Platform-Purchase-Analysis/
 │   └── E-Learning-Platform.pbix
 │
 ├── Report/
-│   └── Project_Report.docx
+│   └── Project_Report.pdf
 │
 └── Images/
     ├── Dashboard_Page1.png
