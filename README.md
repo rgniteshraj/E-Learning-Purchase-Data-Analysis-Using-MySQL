@@ -204,14 +204,14 @@ E-Learning-Platform-Purchase-Analysis/
 ├── E-Learning_Project.sql
 │
 ├── PowerBI/
-│   └── E-Learning-Platform.pbix
+│   └── E-Learning-Platform.pdf
 │
 ├── Report/
 │   └── Project_Report.pdf
 │
 └── Images/
-    ├── Dashboard_Page1.png
-    └── Dashboard_Page2.png
+    ├── Dashboard_Page1.jpg
+    └── Dashboard_Page2.jpg
 ```
 
 *Note: The structure above is suggested. Include only files available in your project.*
